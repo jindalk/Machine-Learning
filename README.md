@@ -8,4 +8,4 @@ __[Pathway to Data Science:](https://github.com/kjkjindal/Machine-Learning/blob/
 
 
 ## Currently ongoing projects
-Developing GANs to produce biologically relevant genomics data<br/>
+Developing GANs to produce biologically relevant genomics data [Utility scripts](https://github.com/kjkjindal/ETHZ)<br/>
